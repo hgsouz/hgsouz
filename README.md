@@ -18,7 +18,7 @@
   <tr>
     <td align="center" width="33%">
       <a href="https://github.com/Tech-do-Bem-FIAP/Challenge/blob/frontend/README.md">
-        <img src="https://github.com/Tech-do-Bem-FIAP/Challenge/blob/frontend/assets/website/Login-desktop.png"
+        <img src="https://github.com/Tech-do-Bem-FIAP/Challenge/blob/frontend/assets/website/pagina-inicial-desktop.png"
              alt="Tech do Bem"
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>

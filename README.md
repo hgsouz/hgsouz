@@ -34,7 +34,8 @@
 ---
 
 ## Estatisticas
-![Hugo's GitHub](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hgsouz&theme=shadow_blue&show_icons=true&include_all_commits=true)
+![Hugo's GitHub](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hgsouz&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hgsouz&theme=dracula)
 
 ---
 

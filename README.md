@@ -46,6 +46,3 @@
 <a href="https://www.linkedin.com/in/hugo-souza-34482222a/" target="blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
-<a href="https://www.instagram.com/hgsouzz/" target="blank">
-  <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
-</a>

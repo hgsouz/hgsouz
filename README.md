@@ -8,7 +8,7 @@
 
 
 ## Skill stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,git,github,python,figma&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,git,github,python,figma&theme=dark)](https://skillicons.dev)
 
 ---
 

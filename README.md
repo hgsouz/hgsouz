@@ -18,14 +18,14 @@
   <tr>
     <td align="center" width="33%">
       <a href="https://github.com/Tech-do-Bem-FIAP/Challenge/blob/frontend/README.md">
-        <img src="https://github.com/Tech-do-Bem-FIAP/Challenge/blob/frontend/assets/website/pagina-inicial-desktop.png"
+        <img src="https://github.com/Tech-do-Bem-FIAP/Challenge/blob/main/Front-End_Design_Engineering/src/assets/pagina-inicial-tdb.png?raw=true"
              alt="Tech do Bem"
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
       <br/>
       <b>Tech do Bem</b><br/>
       <sub>Sistema para centralização de informações evitando percas durante o processamento.</sub><br/>
-      🔗 <a href="https://github.com/Tech-do-Bem-FIAP/Challenge/blob/main/README.md">Repo</a>
+      🔗 <a href="https://github.com/Tech-do-Bem-FIAP/Challenge/tree/main/Front-End_Design_Engineering">Repo</a>
       <br/>
     </td>
   </tr>

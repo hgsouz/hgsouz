@@ -16,16 +16,28 @@
 
 <table>
   <tr>
+    <td align="center" width="30%">
+      <a href="https://github.com/deep-scan-fiap/DeepScan-FrontEnd/README.md">
+        <img src="https://github.com/deep-scan-fiap/DeepScan-FrontEnd/blob/ecd96ef8f0a4cc14cc9394e7b345dabb78121c40/src/assets/paginaInicial.png"
+             alt="DeepScan"
+             style="width:300px; height:200px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>DeepScan</b><br/>
+      <sub>Plataforma de monitoramento maritimo que realiza análises prévias de possíveis desastres naturais</sub><br/>
+      🔗 <a href="https://github.com/deep-scan-fiap/DeepScan-FrontEnd">Repo</a>
+      <br/>
+    </td>
     <td align="center" width="33%">
-      <a href="https://github.com/Tech-do-Bem-FIAP/Challenge/blob/frontend/README.md">
-        <img src="https://github.com/Tech-do-Bem-FIAP/Challenge/blob/main/Front-End_Design_Engineering/src/assets/pagina-inicial-tdb.png?raw=true"
+      <a href="https://github.com/Tech-do-Bem-FIAP/Frontend/README.md">
+        <img src="https://github.com/Tech-do-Bem-FIAP/Frontend/blob/6e042a74000f0655c667e117b118689e91aef292/src/assets/pagina-inicial-tdb.png"
              alt="Tech do Bem"
-             style="width:100%; height:200px; object-fit:cover;"/>
+             style="width:300px; height:200px; object-fit:cover;"/>
       </a>
       <br/>
       <b>Tech do Bem</b><br/>
       <sub>Sistema para centralização de informações evitando percas durante o processamento.</sub><br/>
-      🔗 <a href="https://github.com/Tech-do-Bem-FIAP/Challenge/tree/main/Front-End_Design_Engineering">Repo</a>
+      🔗 <a href="https://github.com/Tech-do-Bem-FIAP/Frontend">Repo</a>
       <br/>
     </td>
   </tr>

@@ -8,7 +8,7 @@
 
 
 ## Skill stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,git,github,python,figma&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=typescript,react,html,css,javascript,git,github,python&theme=dark)](https://skillicons.dev)
 
 ---
 
@@ -28,7 +28,7 @@
       🔗 <a href="https://github.com/deep-scan-fiap/DeepScan-FrontEnd">Repo</a>
       <br/>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="30%">
       <a href="https://github.com/Tech-do-Bem-FIAP/Frontend/README.md">
         <img src="https://github.com/Tech-do-Bem-FIAP/Frontend/blob/6e042a74000f0655c667e117b118689e91aef292/src/assets/pagina-inicial-tdb.png"
              alt="Tech do Bem"

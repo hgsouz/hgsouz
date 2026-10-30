@@ -24,7 +24,7 @@
 <table>
   <tr>
     <td align="center" width="33%">
-      <!-- <img src="URL_DO_PRINT" alt="Delícias da Dessa" style="width:300px; height:200px; object-fit:cover;"/> -->
+      <img src="https://sfljugpqhokofdmdepbl.supabase.co/storage/v1/object/public/vitrine/products-page.png" alt="Delícias da Dessa" style="height:200px; object-fit:cover;"/>
       <br/>
       <b>Delícias da Dessa</b><br/>
       <sub>Vitrine online para confeitaria: catálogo, carrinho com pedido pronto via WhatsApp e painel admin com login JWT para gerenciar produtos e imagens.</sub><br/>
